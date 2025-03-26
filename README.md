@@ -4,9 +4,14 @@
 
 A professional dark-themed educational platform for NEET and JEE aspirants, featuring daily live sessions, PYQ analysis, and peer learning.
 
+## 🌟 Live Demo
+
+Experience the platform now:  
+🔗 [https://aitoolhub.github.io/PYQ-NEET-JEE-Live/](https://aitoolhub.github.io/PYQ-NEET-JEE-Live/)
+
 ## 🌟 Features
 
-- **Daily Live Sessions**: AFTERNOON (2:00PM - 8:00PM) and NIGHT (9:30PM-6:30AM) IST
+- **Daily Live Sessions**: AFTERNOON (2:00PM -8:00PM) and NIGHT (9:30PM-6:30AM) IST
 - **Comprehensive PYQ Analysis**: Previous Year Questions with detailed solutions
 - **Smart Revision System**: AI-powered spaced repetition techniques
 - **Performance Analytics**: Track your progress with detailed insights
@@ -52,7 +57,3 @@ Fully responsive across all devices:
 - Mobile (480px)
 
 ## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/pyq-neet-jee-live.git
